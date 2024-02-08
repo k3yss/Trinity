@@ -1,5 +1,5 @@
 
-# Blind FEC Decoder
+# Trinity
 
 ![image](demostration.png)
 
